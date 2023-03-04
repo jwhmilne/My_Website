@@ -144,7 +144,7 @@ main {
   line-height: 1.5;
 }
 
-@media screen and {max-width: 768px) {
+@media screen and (max-width: 768px) {
   .about {
     flex-direction: column;
     padding: 2rem;
