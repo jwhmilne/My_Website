@@ -12,6 +12,14 @@ Heritage Blue: #313d4b
 
 */
 
+/* All styling */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 /* Nav bar styling */
 
 header {
